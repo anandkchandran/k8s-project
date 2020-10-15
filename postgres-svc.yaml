@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metaData:
-  name: postgres
+  name: db
 spec:
   ports:
     -
